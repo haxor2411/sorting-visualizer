@@ -44,3 +44,5 @@ npm install
 ```sh
 npm run dev
 ```
+
+# Live Link - [https://sorting-visualizer-haxor2411s-projects.vercel.app/]
